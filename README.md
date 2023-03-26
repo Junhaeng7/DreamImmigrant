@@ -1,2 +1,2 @@
 # DreamImmigrant
-React based Web-page for DreamImmigrant company 
+React based Web-site for DreamImmigrant company 
